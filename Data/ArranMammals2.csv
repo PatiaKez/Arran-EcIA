@@ -1,0 +1,13 @@
+﻿eventID,occurrenceID,basisOfRecord,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,scientificName,kingdom,phylum,class,order,family,genus,species,infraspecificEpithet,taxonRank,recordedBy,type,OwnerInstitutionCode,plot,habitat
+north1-1,Na,CameraTrap,Na,Na,Na,present,Sciurus vulgaris,Animalia,Chordata,Mammalia,Rodentia,sciuridae,sciurus,s. vulgaris,Na,species,CH,Na,Na,north,bracken
+north7-1,Na,CameraTrap,Na,Na,Na,present,Oryctolagus cuniculus,Animalia,Chordata,Mammalia,Lagomorpha,leporidae,oryctolagus,o. cuniculus,Na,species,CH,Na,Na,north,grassland
+north7-2,Na,CameraTrap,Na,Na,Na,present,Oryctolagus cuniculus,Animalia,Chordata,Mammalia,Lagomorpha,leporidae,oryctolagus,o. cuniculus,Na,species,CH,Na,Na,north,grassland
+north7-3,Na,CameraTrap,Na,Na,Na,present,Apodemus sylvaticus,Animalia,Chordata,Mammalia,Rodentia,muridae,apodemus,a. sylvaticus,Na,species,CH,Na,Na,north,grassland
+north5-1,Na,CameraTrap,Na,Na,Na,present,Oryctolagus cuniculus,Animalia,Chordata,Mammalia,Lagomorpha,leporidae,oryctolagus,o. cuniculus,Na,species,CH,Na,Na,north,grassland
+north5-2,Na,CameraTrap,Na,Na,Na,present,Oryctolagus cuniculus,Animalia,Chordata,Mammalia,Lagomorpha,leporidae,oryctolagus,o. cuniculus,Na,species,CH,Na,Na,north,grassland
+north9-1,Na,CameraTrap,Na,Na,Na,present,Sorex araneus,Animalia,Chordata,Mammalia,Eulipotyphla,eulipotyphla,soricidae,s. araneus,Na,species,CH,Na,Na,north,grassland
+south2-1,Na,CameraTrap,Na,Na,Na,present,Cervus elaphus,Animalia,Chordata,Mammalia,Artiodactyla,cervinae,cervus,c. elaphus,Na,species,CH,Na,Na,south,bracken
+south4-1,Na,CameraTrap,Na,Na,Na,present,Cervus elaphus,Animalia,Chordata,Mammalia,Artiodactyla,cervinae,cervus,c. elaphus,Na,species,CH,Na,Na,south,bracken
+south5-1,Na,CameraTrap,Na,Na,Na,present,Cervus elaphus,Animalia,Chordata,Mammalia,Artiodactyla,cervinae,cervus,c. elaphus,Na,species,CH,Na,Na,south,grassland
+south5-2,Na,CameraTrap,Na,Na,Na,present,Cervus elaphus,Animalia,Chordata,Mammalia,Artiodactyla,cervinae,cervus,c. elaphus,Na,species,CH,Na,Na,south,grassland
+south5-3,Na,CameraTrap,Na,Na,Na,present,Cervus elaphus,Animalia,Chordata,Mammalia,Artiodactyla,cervinae,cervus,c. elaphus,Na,species,CH,Na,Na,south,grassland

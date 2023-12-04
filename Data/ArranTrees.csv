@@ -1,0 +1,14 @@
+﻿eventID,occurrenceID,basisOfRecord,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,scientificName,kingdom,phylum,class,order,family,genus,species,infraspecificEpithet,taxonRank,recordedBy,type,OwnerInstitutionCode,plot,transect
+s1trees,Na,HumanObservation,37,37,individuals,present,Crataegus monogyna,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Crataegus,Crataegus monogyna,Na,species,JS,event,Na,south,southlow
+s1trees,Na,HumanObservation,17,17,individuals ,present,Ulex europaeus,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Ulex,Ulex europaeus,Na,species,JS,event,Na,south,southlow
+s1trees,Na,HumanObservation,17,17,individuals ,present,Betula pendula ,Plantae,Magnoliophyta,Magnoliopsida,Fagales,Betulaceae,Betula,Betula pendula ,Na,species,JS,event,Na,south,southlow
+s1trees,Na,HumanObservation,1,1,individuals ,present,Ilex aquifolium ,Plantae ,Magnoliophyta,Magnoliopsida,Aquifoliales,Aquifoliaceae,Ilex,Ilex aquifolium ,Na,species,JS ,event,Na,south,southlow
+s1trees,Na,HumanObservation,2,2,individuals ,present,Fraxinus excelsior,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Oleaceae,Fraxinus,Fraxinus excelsior,Na,species,JS ,event,Na,south,southlow
+s2trees,Na,HumanObservation,15,15,individuals,present,Crataegus monogyna,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Crataegus,Crataegus monogyna,Na,species,JS,event,Na,south,southmid
+s3trees,Na,HumanObservation,1,1,individuals,present,Crataegus monogyna,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Crataegus,Crataegus monogyna,Na,species,JS,event,Na,south,southhigh
+s3trees,Na,HumanObservation,29,29,individuals,present,Betula pendula ,Plantae,Magnoliophyta,Magnoliopsida,Fagales,Betulaceae,Betula,Betula pendula ,Na,species,JS,event,Na,south,southhigh
+s3trees,Na,HumanObservation,2,2,individuals,present,Fraxinus excelsior,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Oleaceae,Fraxinus,Fraxinus excelsior,Na,species,JS,event,Na,south,southhigh
+n1trees,Na,HumanObservation,10,10,individuals,present,Sorbus aucuparia,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Sorbus,Sorbus aucuparia,Na,species,JS,event,Na,north,northlow
+n1trees,Na,HumanObservation,3,3,individuals,present,Crataegus monogyna,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Crataegus,Crataegus monogyna,Na,species,JS,event,Na,north,northlow
+n1trees,Na,HumanObservation,1,1,individuals,present,Fraxinus excelsior,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Oleaceae,Fraxinus,Fraxinus excelsior,Na,species,JS ,event,Na,north,northlow
+n1trees ,Na,HumanObservation,1,1,individuals,present ,Rhododendron ponticum,Plantae,Magnoliophyta,Magnoliopsida,Ericales,Ericaceae,Rhododendron ,Rhododendron ponticum,Na,species,JS,event,Na,north,northlow

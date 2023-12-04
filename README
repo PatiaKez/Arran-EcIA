@@ -1,0 +1,21 @@
+###### ReadMe - Arran Ecological Impact Assessment ######
+
+#This GitHub repository contains the data, metadata, descriptions and R Code used to conduct an Ecological Impact Assessment on two plots in the North of Arran, near Lochranza. This project was carreid out as part of the Proffessional Skills for Ecologists course of the Ecology, Evolution and Biodiversity MSc (2023)
+
+#1. AqInvertebrateRCode.R contains the R code used to analyse the Aquatic Invertebrate data
+
+#2. BatsRCode.R contains the R code used to analyse the Bat data
+
+#3. BirdRCode.R contains the R code used to analyse the Bird data
+
+#4. Data file contains the full datasets obtained from this project, including raw data resulting from Bat AudioMoth recordings (the 4 raw bat data files begin with "BatsNight")
+
+#5. MammalRCode.R contains the R code used to analyse the Mammal data
+
+#6. TerrestrialInvertebrateRCode.r contains teh R code used to analyse the Terrestrial Invertebrate data
+
+#7. TreeRCode.R contains the R cod used to analyse the tree data
+
+#8. Data Management Plan.docx contains the standardised Data Management Plan compliant with the UKRI template
+
+#9. FAIR Compliance.docx details how our data and analysis meets FAIR principles

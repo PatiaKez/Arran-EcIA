@@ -1,0 +1,5 @@
+eventID,samplingProtocol,samplingEffort,sampleSizeValue,sampleSizeUnit,eventDate,eventTime,startDayOfYear,eventRemarks,country,countryCode,locality,locationID,decimalLatitudeSTART,decimalLongitudeSTART,decimalLatitudeEND,decimalLongitudeEND,geodeticDatum,coordinateUncertaintyInMeters,type,ownerInstitutionCode
+S1,Audio Recordings,"12:30hours recording, 5 mins on 2 mins off",535,minutes,2023-09-12/13,,,,Scotland,,"Lochranza, Isle of Arran",,55.700073,-5.285424,55.700073,-5.285424,WGS84,3,event,
+S2,Audio Recordings,"12:30hours recording, 5 mins on 2 mins off",535,minutes,2023-09-13/14,,,,Scotland,,"Lochranza, Isle of Arran",,55.696946,-5.280879,55.696946,-5.280879,WGS85,3,event,
+N1,Audio Recordings,"12:30hours recording, 5 mins on 2 mins off",535,minutes,2023-09-14/15,,,,Scotland,,"Lochranza, Isle of Arran",,55.704358,-5.26715,55.704358,-5.26715,WGS86,3,event,
+N2,Audio Recordings,"12:30hours recording, 5 mins on 2 mins off",535,minutes,2023-09-15-16,,,,Scotland,,"Lochranza, Isle of Arran",,55.705759,-5.282506,55.705759,-5.282506,WGS87,3,event,

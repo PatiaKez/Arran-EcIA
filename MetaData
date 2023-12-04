@@ -1,0 +1,59 @@
+###### MetaData - Arran Ecological Impact Assessment ######
+
+
+# Sampling events (Aquatic Invertebrates)
+Aquatic invertebrate surveys were conducted in the eastern-edge streams of both plots and additionally in the bog of the south plot. Event ID has been assigned to each sampling event (N/s - North/South, 1 - 9 - sampling site number, Stream/Marsh - indicating if sampling site correcponds to the stream or the bog (bog noted as marsh in the eventIDs)). Coordinates of sampling areas have been recorded as well as sampling effort, protocol and date.
+
+
+# Associated occurrences (Aquatic Invertebrates)
+We sampled aquatic invertebrates using kicksampling and rock-rubbing. Each sampled and identified individual is associated to an event ID, specimen were identified as far as possible in the field, the number of specimen of a particular taxonomic group at a sampling event were recorded. 
+
+
+# Sampling events (Bats)
+Standardised bat data generated from aucoustic recording and analysis has been associated with sampling event data, which took place over 4 nights, with 2 locations on each plot. Each sampling event has a unique event ID, along with information in date, site location and duration of total recording.
+
+
+# Associated occurrences (Bats)
+Standardised bat data generated from aucoustic recording and analysis. Contains information on the types of bat species detected at each site - each associated with an event ID. For analyses, genus level identification was used due to uncertainties in species identification.
+
+
+# Sampling events (bird transects and point counts)
+Bird surveys were conducted along 3 transects and in 1 point count in both plots. Event ID has been assigned to each sampling event (n/s - north/south, 1 - low transect, 2 - middle transect, 3 - high transect, point - point count sampling protocol). Coordinates of sampling areas have been recorded as well as sampling effort, protocol and date.
+
+
+# Associated occurrences (bird transects and point counts)
+We recorded bird occurences through visual and sound identifications. Each recorded individual is associated to an event ID, specimen were identified to species, the number of specimen of a particular species at a sampling event were recorded. 
+
+ 
+# Sampling events (camera traps - mammals)
+We used camera traps left out over 24h intervals to record the presence of mammals in both plots. Event ID corresponds to the plot on which the camera was places (north/south), and the recrodign event (with 9 total per plot, 3 each night for 3 nights). Coordinates of camera trap locations have been recorded as well as sampling effort, protocol and date.
+
+
+# Associated occurrences (camera traps - mammals)
+Camera traps generated data on mammal species presence in each plot, each occurence associated with an event ID and species identification.
+
+
+# Sampling events (trees transects)
+Tree surveys were conducted along 3 transects in both plots (same transects as bird surveys). Event ID has been assigned to each sampling event (n/s - north/south, 1 - low transect, 2 - middle transect, 3 - high transect). Coordinates of sampling areas have been recorded as well as sampling effort, protocol and date.
+
+
+# Associated occurrences (tree transects) 
+We recorded tree occurences through visual identifications. Each recorded tree is associated to an event ID, specimen were identified to species, the number of specimen of a particular species at a sampling event were recorded. 
+
+
+# Sampling events (terrestrial invertebrates)
+Terrestrial invertebrate surveys were conducted along 3 transects in each plot. Event ID has been assigned to each sampling event (N/s - North/South, L - low, M - middle, H - high transect, 1 - 8 - sampling site number.). Coordinates of sampling areas have been recorded as well as sampling effort, protocol and date.
+
+
+# Associated occurrences (terrestrial invertebrates)
+We sampled terrestrial invertebrates pitfall traps and sweep-netting. Each sampled and identified individual is associated to an event ID, specimen were identified as far as possible in the field, the number of specimen of a particular taxonomic group at a sampling event were recorded. 
+
+
+#BatsNight_12-13/13-14_South and BatsNight_14-15/15-16_North
+Raw datasets of bat call detections and identifications have been included. these include call timing, frequencies, detection and class probabilities and species identification.
+
+
+# Incidental Sightings
+During surveys we made note of other species observed in either plot as part of our incidental sightings list. We made not of the date and survey during which incidental sightings were made.
+
+

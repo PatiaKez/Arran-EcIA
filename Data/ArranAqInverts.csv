@@ -1,0 +1,51 @@
+eventID,occurrenceID,basisOfRecord,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,scientificName,kingdom,phylum,class,order,family,recordedBy,OwnerInstitutionCode,plot,waterbody
+N1Stream,Na,kicksampling,4,4,Na,present,Na,Animalia,Arthropoda,Insecta,ephemeroptera,baetidae,AE&HH,Na,north,stream
+N1Stream,Na,kicksampling,3,3,Na,present,Na,Animalia,Arthropoda,Insecta,plecoptera,Na,AE&HH,Na,north,stream
+N1Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,diptera,simuliidae,AE&HH,Na,north,stream
+N1Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,trichoptera,philopotamidae,AE&HH,Na,north,stream
+N1Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,ephemeroptera,heptageniidae (synonym: ecdyonuridae),AE&HH,Na,north,stream
+N2Stream,Na,kicksampling,3,3,Na,present,Na,Animalia,Arthropoda,Insecta,ephemeroptera,baetidae,AE&HH,Na,north,stream
+N2Stream,Na,kicksampling,4,4,Na,present,Na,Animalia,Arthropoda,Insecta,plecoptera,Na,AE&HH,Na,north,stream
+N2Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,diptera,dixidae,AE&HH,Na,north,stream
+N3Stream,Na,kicksampling,3,3,Na,present,Na,Animalia,Arthropoda,Insecta,ephemeroptera,baetidae,AE&HH,Na,north,stream
+N3Stream,Na,kicksampling,4,4,Na,present,Na,Animalia,Arthropoda,Insecta,plecoptera,Na,AE&HH,Na,north,stream
+N3Stream,Na,kicksampling,3,3,Na,present,Na,Animalia,Arthropoda,Insecta,diptera,simuliidae,AE&HH,Na,north,stream
+N3Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,coleoptera,Na,AE&HH,Na,north,stream
+N4Stream,Na,kicksampling,4,4,Na,present,Na,Animalia,Arthropoda,Insecta,ephemeroptera,baetidae,AE&HH,Na,north,stream
+N4Stream,Na,kicksampling,2,2,Na,present,Na,Animalia,Arthropoda,Insecta,plecoptera,Na,AE&HH,Na,north,stream
+N4Stream,Na,kicksampling,3,3,Na,present,Na,Animalia,Arthropoda,Insecta,diptera,simuliidae,AE&HH,Na,north,stream
+N4Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,trichoptera,philopotamidae,AE&HH,Na,north,stream
+N4Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Nematomorpha,Gordioida,gordioidea,Na,AE&HH,Na,north,stream
+N4Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,trichoptera,leptoceridae,AE&HH,Na,north,stream
+N4Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,diptera,dixidae,AE&HH,Na,north,stream
+N5Stream,Na,kicksampling,3,3,Na,present,Na,Animalia,Arthropoda,Insecta,ephemeroptera,baetidae,AE&HH,Na,north,stream
+N5Stream,Na,kicksampling,3,3,Na,present,Na,Animalia,Arthropoda,Insecta,plecoptera,Na,AE&HH,Na,north,stream
+N5Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,diptera,simuliidae,AE&HH,Na,north,stream
+N5Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,trichoptera,philopotamidae,AE&HH,Na,north,stream
+N5Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,ephemeroptera,heptageniidae (synonym: ecdyonuridae),AE&HH,Na,north,stream
+S1Marsh,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,diptera,Na,KN&JS,Na,south,bog
+S1Marsh,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,odonata,Na,KN&JS,Na,south,bog
+S1Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,coleoptera,Na,KN&JS,Na,south,stream
+S1Stream,Na,kicksampling,5,5,Na,present,Na,Animalia,Annelida,Clitellata,oligochaete,Na,KN&JS,Na,south,stream
+S1Stream,Na,rockrubbing,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,coleoptera,Na,KN&JS,Na,south,stream
+S2Marsh,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,trichoptera,Na,KN&JS,Na,south,bog
+S2Marsh,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,odonata,Na,KN&JS,Na,south,bog
+S2Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,coleoptera,hydrophilidae,KN&JS,Na,south,stream
+S2Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,plecoptera,capniidae,KN&JS,Na,south,stream
+S3Marsh,Na,kicksampling,3,3,Na,present,Na,Animalia,Arthropoda,Insetca,odonata,Na,KN&JS,Na,south,bog
+S3Marsh,Na,kicksampling,2,2,Na,present,Na,Animalia,Arthropoda,Insetca,ephemeroptera,Na,KN&JS,Na,south,bog
+S3Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,diptera,Na,KN&JS,Na,south,stream
+S4Marsh,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,diptera,Na,KN&JS,Na,south,bog
+S4Marsh,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,coleoptera,Na,KN&JS,Na,south,bog
+S4Marsh,Na,kicksampling,2,2,Na,present,Na,Animalia,Annelida,Clitelatta,oligochaete,Na,KN&JS,Na,south,bog
+S4Marsh,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,ephemeroptera,Na,KN&JS,Na,south,bog
+S4Stream ,Na,kicksampling,1,1,Na,present,Na,Animalia,Annelida,Clitellata,oligochaete,Na,KN&JS,Na,south,stream
+S4Stream ,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,plecoptera,capniidae,KN&JS,Na,south,stream
+S5Marsh,Na,kicksampling,1,1,Na,present,Na,Animalia,Annelida,Clitellata,oligochaete,Na,KN&JS,Na,south,bog
+S5Marsh,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,odonata,Na,KN&JS,Na,south,bog
+S5Marsh,Na,kicksampling,3,3,Na,present,Na,Animalia,Arthropoda,Insecta,coleoptera,Na,KN&JS,Na,south,bog
+S5Stream,Na,kicksampling,4,4,Na,present,Na,Animalia,Arthropoda,Insetca,diptera,Na,KN&JS,Na,south,stream
+S5Stream,Na,rockrubbing,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,trichoptera,Na,KN&JS,Na,south,stream
+S5Stream,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,coleoptera,Na,KN&JS,Na,south,stream
+S5Stream,Na,rockrubbing,1,1,Na,present,Na,Animalia,Arthropoda,Insetca,plecoptera,capniidae,KN&JS,Na,south,stream
+S6Marsh,Na,kicksampling,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,odonata,Na,KN&JS,Na,south,bog

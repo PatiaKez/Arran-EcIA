@@ -1,0 +1,193 @@
+﻿eventID,occurrenceID,basisOfRecord,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,scientificName,kingdom,phylum,class,order,family,genus,species,infraspecificEpithet,taxonRank,recordedBy,OwnerInstitutionCode,plot,transect 
+NHS1,Na,HumanObservation,5,5,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&HH&KDH,Na,north,NorthHigh
+NHS1,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Miridae,Na,Na,Na,Family,HW&HH&KDH,Na,north,NorthHigh
+NHS1,Na,HumanObservation,1,1,individuals,present,Scathophaga stercoraria,Animalia,Arthropoda,Insecta,Diptera,Scathophagidae,Scathophaga,stercoraria,Na,Species,HW&HH&KDH,Na,north,NorthHigh
+NHS2,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW&HH&KDH,Na,north,NorthHigh
+NHS3,Na,HumanObservation,6,6,individuals,present,Conomelus sp.,Animalia,Arthropoda,Insecta,Hemiptera,Delphacidae,Conomelus,Na,Na,Genus,HW&HH&KDH,Na,north,NorthHigh
+NHS3,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Coleoptera,Apionidae,Perapion,violaceum,Na,Species,HW&HH&KDH,Na,north,NorthHigh
+NHS3,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&HH&KDH,Na,north,NorthHigh
+NHS4,Na,HumanObservation,9,9,individuals,present,Conomelus sp.,Animalia,Arthropoda,Insecta,Hemiptera,Delphacidae,Conomelus,Na,Na,Genus,HW&HH&KDH,Na,north,NorthHigh
+NHS4,Na,HumanObservation,5,5,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&HH&KDH,Na,north,NorthHigh
+NHS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Coleoptera,Na,Na,Na,larvae,Order,HW&HH&KDH,Na,north,NorthHigh
+NHS4,Na,HumanObservation,1,1,individuals,present,Notostira elongata,Animalia,Arthropoda,Insecta,Hemiptera,Miridae,Notostira,elongata,Na,Species,HW&HH&KDH,Na,north,NorthHigh
+NHS4,Na,HumanObservation,1,1,individuals,present,Entomobrya nivalis,Animalia,Arthropoda,Collembola,Entomobryomorpha,Entomobryidae,Entomobrya,nivalis,Na,Species,HW&HH&KDH,Na,north,NorthHigh
+NHS4,Na,HumanObservation,1,1,individuals,present,Empis livida,Animalia,Arthropoda,Insecta,Diptera,Empididae,Empis,livida,Na,Species,HW&HH&KDH,Na,north,NorthHigh
+NHS4,Na,HumanObservation,4,4,individuals,present,Araneus quadratus,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Araneus,quadratus,Na,Species,HW&HH&KDH,Na,north,NorthHigh
+NHS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Lycosidae,Na,Na,Na,Family,HW&HH&KDH,Na,north,NorthHigh
+NHS5,Na,HumanObservation,2,2,individuals,present,Araneus quadratus,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Araneus,quadratus,Na,Species,HW&HH&KDH,Na,north,NorthHigh
+NHS5,Na,HumanObservation,5,5,individuals,present,Tetragnatha sp.,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Tetragnatha,Na,Na,Genus,HW&HH&KDH,Na,north,NorthHigh
+NHS5,Na,HumanObservation,3,3,individuals,present,Metellina segementata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,Na,Species,HW&HH&KDH,Na,north,NorthHigh
+NHS5,Na,HumanObservation,2,2,individuals,present,Stygnocoris sabulosus,Animalia,Arthropoda,Insecta,Hemiptera,Lygaeidae,Stygnocoris,sabulosus,Na,Species,HW&HH&KDH,Na,north,NorthHigh
+NHS5,Na,HumanObservation,8,8,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Delphacidae,Conomelus,Na,Na,Genus,HW&HH&KDH,Na,north,NorthHigh
+NHS5,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&HH&KDH,Na,north,NorthHigh
+NLP1,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Coleoptera,Caribidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP1,Na,HumanObservation,1,1,individuals,present,Arion rufus,Animalia,Mollusca,Gastropoda,Stylommatophora,Arionidae,Arion,rufus,Na,Species,HW&KD,Na,north,NorthLow
+NLP2,Na,HumanObservation,1,1,individuals,present,Arion rufus,Animalia,Mollusca,Gastropoda,Stylommatophora,Arionidae,Arion,rufus,Na,Species,HW&KD,Na,north,NorthLow
+NLP2,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP2,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP2,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP2,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Dolichopodidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP2,Na,HumanObservation,1,1,individuals,present,Dicyrtoma fusca,Animalia,Arthropoda,Insecta,Symphypleona,Dicyrtomidae,Dicyrtoma,fusca,Na,Species,HW&KD,Na,north,NorthLow
+NLP3,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP3,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Insecta,Hymenoptera,Myrmicinae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP3,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Diplopoda,Polydesmida,Macrosternodesmidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP3,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Diplopoda,Julida,Julidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Archaeognatha,Machilidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP5,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP5,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Coleoptera,Caribidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP5,Na,HumanObservation,3,3,individuals,present,Myrmica rubra,Animalia,Arthropoda,Insecta,Hymenoptera,Myrmicinae,Mrymica,rubra,Na,Species,HW&KD,Na,north,NorthLow
+NLP6,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP6,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP7,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP7,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLP7,Na,HumanObservation,1,1,individuals,present,Stenus sp.,Animalia,Arthropoda,Insecta,Coleoptera,Steninae,Stenus,Na,Na,Genus,HW&KD,Na,north,NorthLow
+NLS1,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS1,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS1,Na,HumanObservation,1,1,individuals,present,Zygiella atrica,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Zygiella,atrica,Na,Species,HW&KD,Na,north,NorthLow
+NLS1,Na,HumanObservation,3,3,individuals,present,Metellina segmentata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,Na,Species,HW&KD,Na,north,NorthLow
+NLS1,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Insecta,Psocodea,Na,Na,Na,Na,Order,HW&KD,Na,north,NorthLow
+NLS1,Na,HumanObservation,1,1,individuals,present,Cepaea hortensis,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Na,Na,Na,Species,HW&KD,Na,north,NorthLow
+NLS2,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS2,Na,HumanObservation,1,1,individuals,present,Zygiella x-notata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Zygiella,x-notata,Na,Species,HW&KD,Na,north,NorthLow
+NLS3,Na,HumanObservation,5,5,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS3,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Coleoptera,Caribidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS3,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Coleoptera,Caribidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Psocodea,Na,Na,Na,Na,Order,HW&KD,Na,north,NorthLow
+NLS5,Na,HumanObservation,9,9,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS5,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Calliphoridae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS6,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&KD,Na,north,NorthLow
+NLS6,Na,HumanObservation,1,1,individuals,present,Metellina segementata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,Na,Species,HW&KD,Na,north,NorthLow
+NMS1,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS1,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Chironomidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS1,Na,HumanObservation,1,1,individuals,present,Metellina segementata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,Na,Species,HW&HH,Na,north,NorthMid
+NMS2,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS2,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS2,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS2,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS2,Na,HumanObservation,1,1,individuals,present,Tipula sp.,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,Na,Na,Genus,HW&HH,Na,north,NorthMid
+NMS3,Na,HumanObservation,6,6,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS3,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS3,Na,HumanObservation,5,5,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS3,Na,HumanObservation,3,3,individuals,present,Coenosia sp.,Animalia,Arthropoda,Insecta,Diptera,Muscidae,Coenosia,Na,Na,Genus,HW&HH,Na,north,NorthMid
+NMS3,Na,HumanObservation,7,7,individuals,present,Hydrellia sp.,Animalia,Arthropoda,Insecta,Diptera,Ephydridae,Hydrellia,Na,Na,Genus,HW&HH,Na,north,NorthMid
+NMS4,Na,HumanObservation,5,5,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS4,Na,HumanObservation,2,2,individuals,present,Coenosia sp.,Animalia,Arthropoda,Insecta,Diptera,Muscidae,Coenosia,Na,Na,Genus,HW&HH,Na,north,NorthMid
+NMS4,Na,HumanObservation,4,4,individuals,present,Tipula sp.,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,Na,Na,Genus,HW&HH,Na,north,NorthMid
+NMS4,Na,HumanObservation,5,5,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS4,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Pentatomidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS4,Na,HumanObservation,3,3,individuals,present,Lonchoptera sp.,Animalia,Arthropoda,Insecta,Diptera,Lonchopteridae,Lonchoptera,Na,Na,Genus,HW&HH,Na,north,NorthMid
+NMS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Alticini (Tribe),Na,Na,Tribe,HW&HH,Na,north,NorthMid
+NMS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Na,Na,larvae,Family,HW&HH,Na,north,NorthMid
+NMS4,Na,HumanObservation,5,5,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Dolichopodidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS5,Na,HumanObservation,1,1,individuals,present,Tipula sp.,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,Na,Na,Genus,HW&HH,Na,north,NorthMid
+NMS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Dolichopodidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS5,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS5,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS5,Na,HumanObservation,1,1,individuals,present,Coenosia sp.,Animalia,Arthropoda,Insecta,Diptera,Muscidae,Coenosia,Na,Na,Genus,HW&HH,Na,north,NorthMid
+NMS5,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Sepsidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Trombidiformes,Bdellidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS5,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Agromyzidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS5,Na,HumanObservation,1,1,individuals,present,Dicyrtoma fusca,Animalia,Arthropoda,Insecta,Symphypleona,Dicyrtomidae,Dicyrtoma,fusca,Na,Species,HW&HH,Na,north,NorthMid
+NMS6,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS6,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS6,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW&HH,Na,north,NorthMid
+NMS6,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Coleoptera,Na,Na,Na,larvae,Order,HW&HH,Na,north,NorthMid
+NMS7,Na,HumanObservation,2,2,individuals,present,Tipula sp.,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,Na,Na,Genus,HW,Na,north,NorthMid
+NMS7,Na,HumanObservation,1,1,individuals,present,Metellina segementata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,Na,Species,HW,Na,north,NorthMid
+NMS7,Na,HumanObservation,7,7,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW,Na,north,NorthMid
+NMS7,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW,Na,north,NorthMid
+NMS8,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Na,Na,Na,Family,HW,Na,north,NorthMid
+SHS1,Na,HumanObservation,1,1,individuals,present,Araneus quadratus,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Araneus,Araneus quadratus,Na,Species,BY,Na,south,SouthHigh
+SHS1,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS1,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS1,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS1,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Na,Na,Na,Na,Order,BY,Na,south,SouthHigh
+SHS1,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Thysanoptera,Na,Na,Na,Na,Order,BY,Na,south,SouthHigh
+SHS2,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS2,Na,HumanObservation,1,1,individuals,present,Odiellus spinosus,Animalia,Arthropoda,Arachnida,Opiliones,Phalangiidae,Odiellus,Odiellus spinosus,Na,Species,BY,Na,south,SouthHigh
+SHS2,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS3,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS3,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Clubionidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS4,Na,HumanObservation,5,5,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Na,Na,Na,Na,Order,BY,Na,south,SouthHigh
+SHS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Mollusca,Gastropoda,Na,Na,Na,Na,Na,Na,BY,Na,south,SouthHigh
+SHS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Limoniidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Limoniidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS5,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Lygaeidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS6,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS6,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Na,Na,Na,Na,Order,BY,Na,south,SouthHigh
+SHS6,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS7,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS7,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cixiidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SHS7,Na,HumanObservation,1,1,individuals,present,Gonatium rubens,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,Gonatium,Gonatium rubens,Na,Species,BY,Na,south,SouthHigh
+SHS7,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Na,Na,Na,Family,BY,Na,south,SouthHigh
+SLP2,Na,HumanObservation,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,Diptera,Na,Na,Na,Na,Order,KN,Na,south,SouthLow
+SLP3,Na,HumanObservation,1,1,Na,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Na,Na,Na,Na,Order,KN,Na,south,SouthLow
+SLP5,Na,HumanObservation,1,1,Na,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Na,Na,Na,Na,Na,KN,Na,south,SouthLow
+SLP5,Na,HumanObservation,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,Diptera,Na,Na,Na,Na,Na,KN,Na,south,SouthLow
+SLP5,Na,HumanObservation,1,1,Na,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Delphacidae,Conomelus,Na,Na,Genus,KN,Na,south,SouthLow
+SLS2,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Na,Na,Na,Na,Na,KN,Na,south,SouthLow
+SLS2,Na,HumanObservation,2,2,individuals,present,Tipula oleracea,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,Oleracea,Na,Species,KN,Na,south,SouthLow
+SLS4,Na,HumanObservation,1,1,individuals,present,Tipula oleracea,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,Oleracea,Na,Species,KN,Na,south,SouthLow
+SLS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Na,Na,Na,Na,Na,KN,Na,south,SouthLow
+SLS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Coleoptera,Na,Na,Na,Na,Na,KN,Na,south,SouthLow
+SLS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Miridae,Na,Na,Na,Na,KN,Na,south,SouthLow
+SLS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Lepidoptera,Na,Na,Na,Na,Na,KN,Na,south,SouthLow
+SLS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Na,Na,Na,Na,Na,Na,KN,Na,south,SouthLow
+SLS6,Na,HumanObservation,1,1,individuals,present,Na,animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Na,Na,Na,Na,BY,Na,south,SouthLow
+SLS6,Na,HumanObservation,2,2,individuals,present,Na,animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Na,Na,Na,Na,BY,Na,south,SouthLow
+SMS1,Na,HumanObservation,18,18,individuals,present,Metellina segementata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,Na,Species,HW,Na,south,SouthMid
+SMS1,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Lycosidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS1,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Coleoptera,Caribidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS1,Na,HumanObservation,4,4,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS1,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Nabidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS1,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Philodromidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS1,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Tabanidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS1,Na,HumanObservation,5,5,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS2,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS2,Na,HumanObservation,2,2,individuals,present,Metellina segementata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,Na,Species,HW,Na,south,SouthMid
+SMS2,Na,HumanObservation,7,7,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS2,Na,HumanObservation,1,1,individuals,present,Myrmica rubra,Animalia,Arthropoda,Insecta,Hymenoptera,Myrmicinae,Myrmica,rubra,Na,Species,HW,Na,south,SouthMid
+SMS2,Na,HumanObservation,1,1,individuals,present,Formica fusca,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Formica,fusca,Na,Family,HW,Na,south,SouthMid
+SMS2,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Coleoptera,Caribidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS2,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS2,Na,HumanObservation,1,1,individuals,present,Tetragnatha sp.,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Tetragnatha,Na,Na,Genus,HW,Na,south,SouthMid
+SMS2,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Sepsidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS2,Na,HumanObservation,1,1,individuals,present,Pachytomella parallela,Animalia,Arthropoda,Insecta,Hemiptera,Miridae,Pachytomella,parallela,Na,Species,HW,Na,south,SouthMid
+SMS3,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS3,Na,HumanObservation,1,1,individuals,present,Tipula sp.,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,Na,Na,Genus,HW,Na,south,SouthMid
+SMS3,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Sciaridae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS4,Na,HumanObservation,2,2,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cercopidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS4,Na,HumanObservation,5,5,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS4,Na,HumanObservation,1,1,individuals,present,Pachytomella sp.,Animalia,Arthropoda,Insecta,Hemiptera,Miridae,Pachytomella,Na,Na,Genus,HW,Na,south,SouthMid
+SMS4,Na,HumanObservation,1,1,individuals,present,Tetragnatha sp.,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Tetragnatha,Na,Na,Genus,HW,Na,south,SouthMid
+SMS4,Na,HumanObservation,3,3,individuals,present,Metellina segementata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,Na,Species,HW,Na,south,SouthMid
+SMS4,Na,HumanObservation,2,2,individuals,present,Zygiella atrica,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Zygiella,atrica,Na,Species,HW,Na,south,SouthMid
+SMS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Dolicopopidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Lycosidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS4,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Lepidoptera,Tortricidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS4,Na,HumanObservation,1,1,individuals,present,Leptopterna sp.,Animalia,Arthropoda,Insecta,Hemiptera,Miridae,Leptoterna,Na,Na,Genus,HW,Na,south,SouthMid
+SMS5,Na,HumanObservation,1,1,individuals,present,Metellina segementata,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Metellina,segmentata,Na,Species,HW,Na,south,SouthMid
+SMS5,Na,HumanObservation,1,1,individuals,present,Tetragnatha sp.,Animalia,Arthropoda,Arachnida,Araneae,Tetragnathidae,Tetragnatha,Na,Na,Genus,HW,Na,south,SouthMid
+SMS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Linyphiidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Arachnida,Araneae,Clubionidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS5,Na,HumanObservation,1,1,individuals,present,Na,Animalia,Arthropoda,Insecta,Thysanoptera,Phlaeothripidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS5,Na,HumanObservation,3,3,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Dolicopopidae,Na,Na,Na,Family,HW,Na,south,SouthMid
+SMS5,Na,HumanObservation,8,8,individuals,present,Lipoptena cervi,Animalia,Arthropoda,Insecta,Diptera,Hippoboscidae,Lipoptena,cervi,Na,Species,HW,Na,south,SouthMid
+SMS5,Na,HumanObservation,12,12,individuals,present,Na,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,Na,Na,Na,Family,HW,Na,south,SouthMid
